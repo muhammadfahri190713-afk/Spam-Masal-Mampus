@@ -32,4 +32,9 @@ pkg install git
 git clone https://github.com/muhammadfahri190713-afk/Spam-Masal-Mampus/
 ```
 
+# Cek Folder
+```bash
+ls
+```
 
+# Pemindahan Project
