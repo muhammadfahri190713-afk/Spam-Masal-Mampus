@@ -38,3 +38,20 @@ ls
 ```
 
 # Pemindahan Project
+```bash
+cd Spam-Masal-Mampus
+```
+# Menjalankan SCRIPT 
+```bash
+python flood.py
+```
+
+
+**Selamat Bersenang Senang Gunakan Sampe Mampus Si Target Dan Hanya Testing Edukasi. Pastikan anda punya izin, kami hanya menyediakan tools bukan membantu menyeranh tanpa izin**
+
+
+```bash
+</Code by 'muhammadfahri190713-afk'>
+```
+
+**Selamat Tinggal. Wassalamu'alaikum Warahmatullahi wabarakatuh 😊.**
